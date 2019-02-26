@@ -13,7 +13,6 @@ public void setup(){
 }
 
 public void draw(){
-  tint(tint, tint, tint, alph);
   fractal(picX, picY, length, simon);
   if(mousePressed == true){
     tint = (int(random(0,255)));
