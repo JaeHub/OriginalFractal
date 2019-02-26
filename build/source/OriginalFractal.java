@@ -21,7 +21,7 @@ public void setup(){
   background(0);
   
   tint = 0;
-  alph = 255;
+  alph = 150;
   picX = 300;
   picY = 300;
   length = 300;
